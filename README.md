@@ -2,7 +2,7 @@
 
 ### 运行服务器
 ``go run main.go -p 5432``  
-其中6543只是一个端口例子，你可以改为其它可用的端口号
+其中5432只是一个端口例子，你可以改为其它可用的端口号
 
 ### 运行curl测试
 测试hello：``curl -v http://localhost:5432/hello/testuser``  
